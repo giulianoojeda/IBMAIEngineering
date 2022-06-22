@@ -11,5 +11,5 @@ In addition to earning a Professional Certificate from Coursera, you will also r
 # Applied Learning Project
 Throughout the program, you will build a portfolio of projects demonstrating your mastery of course topics. The hands-on projects will give you a practical working knowledge of Machine Learning libraries and Deep Learning frameworks such as SciPy, ScikitLearn, Keras, PyTorch, and Tensorflow. You will also complete an in-depth Capstone Project, where you’ll apply your AI and Neural Network skills to a real-world challenge and demonstrate your ability to communicate project outcomes. 
 
-#What you will find in this repository
+# What you will find in this repository
 A list of all my final projects in every course in this specialization
